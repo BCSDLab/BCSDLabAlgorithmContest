@@ -12,6 +12,6 @@ public class main1 {
 		num = in.nextInt();
 		if(num <= 0 && num >= 125)
 			System.out.println("-1");
-		System.out.println(num/25 + num/5);
+		System.out.println(num/25 + num/5+1);
 	}
 }
